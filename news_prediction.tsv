@@ -1,0 +1,6 @@
+textid	target	model	tokenizer	predicted	prob
+0	1	/home/zwang1/cosc426/labs/lab07/news_model	/home/zwang1/cosc426/labs/lab07/news_model	LABEL_0	0.3649695813655853
+1	1	/home/zwang1/cosc426/labs/lab07/news_model	/home/zwang1/cosc426/labs/lab07/news_model	LABEL_0	0.3391611576080322
+2	0	/home/zwang1/cosc426/labs/lab07/news_model	/home/zwang1/cosc426/labs/lab07/news_model	LABEL_0	0.3577864170074463
+3	2	/home/zwang1/cosc426/labs/lab07/news_model	/home/zwang1/cosc426/labs/lab07/news_model	LABEL_0	0.357060968875885
+4	2	/home/zwang1/cosc426/labs/lab07/news_model	/home/zwang1/cosc426/labs/lab07/news_model	LABEL_0	0.3536413908004761

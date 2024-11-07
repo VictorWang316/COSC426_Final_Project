@@ -1,0 +1,6 @@
+textid	text	condition	target
+0	woah hillary caught on hot mic trashing beyonce with racial slurs.	news	1
+1	susan rices housekeeper found dead in a lake after fbi interview.	news	1
+2	assange truth bomb hillary clinton and isis are funded by the same money.	news	0
+3	obama to send large shipment of thoughts and prayers to texas flood victims.	news	2
+4	cdc forced vaccinations.	news	2

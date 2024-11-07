@@ -1,0 +1,7 @@
+textid	text	condition	label
+0	busted hillarys million dollar scandal russia definitively uncovered.	news	1
+1	clinton foundations sends water to houston for 7 a bottle.	news	1
+2	breaking bridge collapse claims hillary clinton huma abedin 14 others.	news	0
+3	donald trump praises colonel sanders for his service in the civil war.	news	0
+4	australia becomes first country to begin microchipping.	news	2
+5	snowden bin laden alive.	news	2

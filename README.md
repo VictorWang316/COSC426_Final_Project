@@ -8,3 +8,6 @@ outlines in detail how you will go from the output of NLPScholar to your evaluat
 3) After doing so, reinforce the experiemnt/research by including some comparative fine-tunned models, train them, reiterate the entire process and compare the accuracy score such that we would be able to measure and analyze how well different models trained on the data would be able to identify whether a given news article in terms of their topic is supposed to be fake, satire, or true; and also which of the three labels are our model trained on the data is doing best at. 
 
 4) Summarize our findings, create graphical representation/figure to help visualization of our data.
+
+[Update]
+Newly added files and progress reported available under "phase2" folder. Contains a README file to provide a high-level overview.

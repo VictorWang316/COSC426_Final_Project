@@ -21,7 +21,8 @@ We manage to run training mode via NLPScholar on our data, we are able to attain
 
 We in turn use the model to run evaluate mode on our testing data, and are able to attain a valid prediction.tsv file. 
 
-
+[Findings]
+We found that the model trained on news title is generally pretty applicable of correctly predicting the associated label with a given news title. Performances diverge in ways that the model is doing a better job at predicting true from fake, whereas satire has less prediction accuracy. This partially validates our study approach of incorporating "satire" as an additional tag for news classification. This also partialy confirms our initial hypothesis that the naming pattern of a title serve a valid purpose. The naming as our current finding suggests are not random or expecting to have a low accuracy. Therefore, we believe we could faithfully proceed with more data as we accept both the news title and news article text(which we already have). 
 
 
 

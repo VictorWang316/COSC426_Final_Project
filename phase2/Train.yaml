@@ -1,0 +1,28 @@
+exp: TextClassification
+
+mode: 
+   - train
+
+models: 
+    hf_text_classification_model:
+          - distilbert-base-uncased
+
+trainfpath: /home/zwang1/cosc426/Final/Dataset/news_title_training.txt
+
+validfpath: /home/zwang1/cosc426/Final/Dataset/news_title_validating.txt
+
+modelfpath: /home/zwang1/cosc426/Final/Model
+
+loadPretrained: False
+
+numLabels: 3
+
+#samplePercent: 10
+
+epochs: 2
+
+#checkFileColumns: False
+
+batchSize: 100 
+
+

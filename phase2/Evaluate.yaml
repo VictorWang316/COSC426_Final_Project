@@ -1,0 +1,19 @@
+exp: TextClassification
+
+mode:
+    - evaluate
+
+models:
+    hf_text_classification_model:
+        - /home/zwang1/cosc426/Final/Model
+
+#datafpath: /home/zwang1/cosc426/labs/lab07/news_evaluating_data.txt
+datafpath: /home/zwang1/cosc426/Final/Dataset/news_title_testing.txt
+
+predfpath: /home/zwang1/cosc426/Final/news_title_prediction.tsv
+
+checkFileColumns: False
+
+batchSize: 100 
+
+

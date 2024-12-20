@@ -23,6 +23,7 @@ We in turn use the model to run evaluate mode on our testing data, and are able 
 
 [Findings]
 We found that the model trained on news title is generally pretty applicable of correctly predicting the associated label with a given news title. Performances diverge in ways that the model is doing a better job at predicting true from fake, whereas satire has less prediction accuracy. This partially validates our study approach of incorporating "satire" as an additional tag for news classification. This also partialy confirms our initial hypothesis that the naming pattern of a title serve a valid purpose. The naming as our current finding suggests are not random or expecting to have a low accuracy. Therefore, we believe we could faithfully proceed with more data as we accept both the news title and news article text(which we already have). 
+After incorporating more data sample from the Onion to balance the dataset between true, fake, and satire, we manage to significantly improve the model's classification accuracy of satirical news, and the overall model accuracy is close to 90%. 
 
 
 

@@ -14,7 +14,7 @@ In terms of the label, "0" is classified as true news, "1" is classified as fake
 
 A reference to our true and fake news: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset/data
 
-A reference to our satire news: https://www.humortimes.com/123429/thomas-homan-named-bizarre-czar/
+A reference to our satire news: https://www.humortimes.com/123429/thomas-homan-named-bizarre-czar/, https://theonion.com/front-page-archive/
 
 [Progress_Update]
 We manage to run training mode via NLPScholar on our data, we are able to attain a valid model from training mode. 
